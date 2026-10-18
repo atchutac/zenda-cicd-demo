@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: zenda-demo
-          image: purnalti123/zenda-demo:latest
+          image: purnalti123/zenda-demo:c1eebad604fc35218f7bfca0e3282d2e0a2141f6
           ports:
             - containerPort: 8080
           resources:
