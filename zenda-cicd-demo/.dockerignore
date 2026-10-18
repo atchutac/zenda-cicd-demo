@@ -1,0 +1,11 @@
+target/
+.git/
+.github/
+k8s/
+argocd/
+screenshots/
+*.md
+.idea/
+*.iml
+.env
+*.log
