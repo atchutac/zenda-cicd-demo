@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/annapurna/zenda-cicd-demo.git
+    repoURL: https://github.com/atchutac/zenda-cicd-demo.git
     targetRevision: main
     path: k8s
   destination:
