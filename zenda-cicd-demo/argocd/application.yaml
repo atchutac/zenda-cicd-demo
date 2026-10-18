@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/atchutac/zenda-cicd-demo.git
     targetRevision: main
-    path: k8s
+    path: zenda-cicd-demo/k8s
   destination:
     server: https://kubernetes.default.svc
     namespace: default
